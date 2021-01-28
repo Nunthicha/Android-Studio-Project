@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Projectpart2</string>
+    <string name="order_text">-- ORDER --</string>
+    <string name="clear_all">Clear All</string>
+    <string name="receive_menu">Receive menu</string>
+</resources>
